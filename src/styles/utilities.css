@@ -1,0 +1,4 @@
+.animate-slow-spin {
+  @apply animate-spin;
+  animation-duration: 20s;
+}

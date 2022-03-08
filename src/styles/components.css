@@ -1,0 +1,4 @@
+.link {
+  @apply hover:underline underline-offset-4;
+  font-size: calc(10px + 1.5vmin);
+}
